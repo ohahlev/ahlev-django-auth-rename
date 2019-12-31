@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
-
 import auth_rename
-
 
 setup(
     name='ahlev-django-auth-rename',

@@ -1,5 +1,6 @@
-.vscode/
-dist/
-*.egg-info/
-*/migrations/
 *.pyc
+*.egg-info
+build/
+dist/
+env/
+.vscode/
