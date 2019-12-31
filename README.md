@@ -1,5 +1,5 @@
 # DJANGO AUTH RENAME APPLICATION
-![](https://img.shields.io/github/v/tag/ohahlev/ahlev-django-auth-rename?label=version)
+![pypi](https://img.shields.io/pypi/v/ahlev-django-auth-rename) ![status](https://img.shields.io/pypi/status/ahlev-django-auth-rename)
 
 This django application is used to rename the application label of [django.contrib.auth](https://docs.djangoproject.com/en/3.0/ref/contrib/auth/) from
 ```
@@ -35,7 +35,7 @@ pip install dist/ahlev-django-auth-rename-0.0.1.tar.gz
 ```
 
 ## install from pypi
-![pypi](https://img.shields.io/pypi/v/ahlev-django-auth-rename)
+[ahlev-django-auth-rename](https://pypi.org/project/ahlev-django-auth-rename/)
 
 ## project configuration
 ### update settings.py as the following
