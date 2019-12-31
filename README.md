@@ -13,10 +13,6 @@ User Management
 ## prerequisites
 The instructions below assume that you have a django project already set up; and a python virtual environment already installed and activated. 
 
-## styles
-All ahlev-django applications are using styles from [mdbootstrap.com](https://mdbootstrap.com), so please make sure you install [ahlev-django-css-js](https://github.com/ohahlev/ahlev-django-css-js.git) first.
-
-
 ## install from this repository
 ### clone
 ```
