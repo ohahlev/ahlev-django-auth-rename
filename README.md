@@ -29,9 +29,16 @@ cd ahlev-django-auth-rename
 python3 setup.py sdist
 ```
 
-### go to project directory
+### install package
+Let's say ahlev-django-auth-rename directory is in the same level as the project directory.
+
+cd into project directory
 ```
-pip install dist/ahlev-django-auth-rename-0.0.1.tar.gz
+cd ../my_project_dir
+```
+install ahlev-django-auth-rename from the project directory
+```
+pip install ../ahlev-django-auth-rename/dist/ahlev-django-auth-rename-0.0.1.tar.gz
 ```
 
 ## install from pypi
