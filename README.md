@@ -26,7 +26,7 @@ cd ahlev-django-auth-rename
 
 ### create installer package
 ```
-python3 setup.py sdist
+make package
 ```
 
 ### install package
